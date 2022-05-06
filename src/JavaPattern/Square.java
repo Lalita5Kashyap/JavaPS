@@ -1,5 +1,5 @@
 package JavaPattern;
-
+//Square pattern
 public class Square {
 
 	public static void main(String[] args) {
