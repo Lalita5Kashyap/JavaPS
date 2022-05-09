@@ -1,7 +1,7 @@
 package SituationBased;
 
 import java.util.Scanner;
-
+//Check Prime Number
 public class CheckPrimeNumber {
 
 	public static void main(String[] args) {
