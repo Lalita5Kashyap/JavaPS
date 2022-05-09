@@ -1,5 +1,7 @@
 package SituationBased;
 
+
+//How to Print duplicate characters from String
 public class DuplicateCharactersinString {
 
 	public static void main(String[] args) {
